@@ -15,4 +15,5 @@ https://developer.spotify.com/documentation/web-api/reference/player/
 
 
 -- if time add natural language so person can talk?
+-- group chat, bot present, people can add songs to party playlist/queue
 
